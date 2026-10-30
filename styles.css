@@ -1,0 +1,38 @@
+body {
+    font-family: Arial;
+    color: #000000;
+    background-color: #fdd29a;
+    margin: 20px;
+}
+
+h1, h2, ul {
+    color: #642300;
+}
+
+h1 {
+    text-align: center;
+}
+
+.tagline {
+    background-color: #ead1b5;
+    padding: 10px;
+}
+
+.note {
+    background-color: #fff;
+    padding: 10px;
+    font-style: italic;
+}
+
+#best-seller {
+    border: 2px solid rgb(0, 255, 0);
+    padding: 8px;
+}
+
+
+
+h2, ul, ol, img {
+    margin-bottom: 10px;
+    width: 200px;
+    
+}
